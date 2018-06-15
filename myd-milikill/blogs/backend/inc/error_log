@@ -1,0 +1,7 @@
+[28-Sep-2017 09:18:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplyae/public_html/backend/inc/search.php on line 13
+[28-Sep-2017 09:18:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplyae/public_html/backend/inc/search.php on line 13
+[29-Sep-2017 09:29:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplyae/public_html/backend/inc/search.php on line 13
+[29-Sep-2017 09:29:40 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplyae/public_html/backend/inc/search.php on line 13
+[29-Sep-2017 09:29:42 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplyae/public_html/backend/inc/search.php on line 13
+[29-Sep-2017 10:21:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplyae/public_html/backend/inc/search.php on line 13
+[29-Sep-2017 13:27:46 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplyae/public_html/backend/inc/search.php on line 13
